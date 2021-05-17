@@ -1,5 +1,5 @@
-Super-Fast-PHP-Project-
-Quả project web siêu khủng được thực hiện điên cuồng trong 1 tuần không ăn không ngủ from Antoine và DucDM&lt <3
+Project PHP về Quản lý sinh viên
+được thưc hiện bởi Đặng Minh Đức và Nguyễn Cao Huy Hoàng
 
 Hướng dẫn sử dụng:
 - Dùng MYSQL tạo các database có tên như sau: class, message, game.
@@ -35,3 +35,6 @@ Hướng dẫn sử dụng:
 +-----------+--------------+------+-----+---------+----------------+
 
 - Ngoài ra trong thư mục gốc này tạo thêm 2 thư mục con là baitap va challenge.
+
+Các chức năng và người thực hiện:
+
